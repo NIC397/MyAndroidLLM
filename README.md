@@ -14,11 +14,15 @@ MyAndroidLLM is an enhanced version of the EdgeLLM project, which was originally
 
 ## How to Use
 
-1**Set up the Environment**: Follow instructions from [**React Native Environment Setup**](https://reactnative.dev/docs/set-up-your-environment) to setup the environment.
-2**Clone the Repository**: Clone this repository to your local machine.
-3**Install Dependencies**: Run `npm install` in the project directory.
-4**Start the App on an Emulator/Simulator**: Run `npm start` in the project directory, then in another terminal, run `npm run android` to launch the app on an emulator or simulator.
-5**Installing on Android Phones**: Run ```cd android``` under project root and run ```./gradlew assembleRelease``` to create an installable APK file under ```android/app/build/outputs/apk/release```.
+1. **Set up the Environment**: Follow instructions from [**React Native Environment Setup**](https://reactnative.dev/docs/set-up-your-environment) to setup the environment.
+
+2. **Clone the Repository**: Clone this repository to your local machine.
+
+3. **Install Dependencies**: Run `npm install` in the project directory.
+
+4. **Start the App on an Emulator/Simulator**: Run `npm start` in the project directory, then in another terminal, run `npm run android` to launch the app on an emulator or simulator.
+
+5. **Installing on Android Phones**: Run ```cd android``` under project root and run ```./gradlew assembleRelease``` to create an installable APK file under ```android/app/build/outputs/apk/release```.
 
 ## Acknowledgments
 
