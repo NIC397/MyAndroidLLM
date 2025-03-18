@@ -31,3 +31,22 @@ This project is built upon the work done in the [EdgeLLM repository](https://git
 ## Contributing
 
 Contributions are welcome! Feel free to submit pull requests or open issues to suggest new features or improvements.
+
+## APPENDIX: Screenshots on Real Android Device
+### All Local LLMs View
+<img src="images/1.jpg" width="50%" height="50%">
+
+### (Device Online) Qwen Available Models View
+<img src="images/2.jpg" width="50%" height="50%">
+
+### (Device Offline) Qwen Available Models View
+<img src="images/3.jpg" width="50%" height="50%">
+
+### Model Loading View
+<img src="images/4.jpg" width="50%" height="50%">
+
+### Chat View - Blank
+<img src="images/5.jpg" width="50%" height="50%">
+
+### Chat View - Conversations
+<img src="images/6.jpg" width="50%" height="50%">
