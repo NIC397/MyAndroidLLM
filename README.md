@@ -26,7 +26,7 @@ MyAndroidLLM is an enhanced version of the EdgeLLM project, which was originally
 
 ## Acknowledgments
 
-This project is built upon the work done in the [EdgeLLM repository](https://github.com/MekkCyber/EdgeLLM) and the tutorial provided by Hugging Face. The original project's focus on integrating AI into mobile applications and running LLMs locally has been expanded with additional features to enhance usability and functionality.
+This project is built upon the work done in the [EdgeLLM repository](https://github.com/MekkCyber/EdgeLLM) and [this tutorial](https://huggingface.co/blog/llm-inference-on-edge) provided by Hugging Face. The original project's focus on integrating AI into mobile applications and running LLMs locally has been expanded with additional features to enhance usability and functionality.
 
 ## Contributing
 
